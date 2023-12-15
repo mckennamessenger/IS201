@@ -1,0 +1,56 @@
+body {
+    background-color:rgb(239, 20, 137);
+    font-family: 'Courier New', Courier, monospace;
+}
+.common {
+    background-color: white;
+    border: 2px solid black;
+    position: absolute;
+}
+
+.header {
+    top: 5px;
+    left: 5px;
+    right: 5px;
+    height: 100px;
+    position: fixed;
+    z-index: 3;
+}
+.leftmenu {
+    top: 114px;
+    left: 5px;
+    width: 350px;
+    z-index: 1;
+    height: flex;
+}
+.mainbody {
+    top: 114px;
+    left: 365px;
+    right: 5px;
+    z-index: 1;
+    height: flex;
+}
+.tableauvisual {
+    width: 40%;
+}
+.toright{
+    float: right;
+}
+
+.extrarightpadding {
+    padding-right: 50px;
+}
+.extraleftpadding {
+    padding-left: 50px;
+}
+.toleft {
+    float: left;
+}
+.tomiddle {
+    text-align: center;
+}
+.BYUlogolayout {
+    float: right;
+    padding-top: 50px;
+    height: 40px; 
+}

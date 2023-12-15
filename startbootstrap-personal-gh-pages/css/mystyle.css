@@ -1,0 +1,35 @@
+a {
+    color: #777777;
+    font-weight: bolder;
+    text-decoration: none;
+    font-family:sans-serif;
+}
+.title {
+    color:blue;
+    padding-left: 15px;
+    padding-top: 20px;
+    font-size: 45px;
+    float: left;
+    text-align: left;
+}
+.subtitle {
+    color: #777777;
+    font-size: 25px;
+    padding-top: 45px;
+}
+.options {
+    color: #777777;
+    padding-right: 15px;
+    padding-top: 10px;
+    float: right;
+    text-align: right;
+}
+.bodytext {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+.fontbigger {
+    font-size: larger;
+}
+.extraborder {
+    padding: 20px;
+}
